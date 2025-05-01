@@ -1,0 +1,18 @@
+{
+  "name": "ordine-webapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "^0.328.0",
+    "xlsx": "^0.18.5",
+    "tailwindcss": "^3.3.2"
+  }
+}
